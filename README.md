@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Telegram-@CryptoWebBuild-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://github.com/cryptowebbuild">
-      <img src="https://img.shields.io/badge/Security-15%2B%20Protocol%20Patches-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Security Contributions" />
+      <img src="https://img.shields.io/badge/Security-16%2B%20Protocol%20Patches-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Security Contributions" />
     </a>
   </p>
 
@@ -37,7 +37,7 @@
 I am a **Web3 Protocol Engineer & Smart Contract Security Researcher** specializing in mathematical invariants, cross-chain bridges, DeFi protocols, and Zero-Knowledge verification systems across **EVM (Ethereum/L2s)** and **SVM (Solana/Anchor)**.
 
 * 🎯 **Core Focus:** Automated invariant testing, symbolic execution, and manual deep-dive audits for DeFi tranches, lending markets, AMM DEXes, and ZK rollups.
-* ⚡ **Security Track Record:** **15+ confirmed vulnerability patches and security PRs** across Tier-1 Web3 protocols including **Strata Markets**, **Dex223**, **Paraloom Labs (Solana L2)**, and **Revert Finance**.
+* ⚡ **Security Track Record:** **16+ confirmed vulnerability patches and security PRs** across Tier-1 Web3 protocols including **Strata Markets**, **Dex223**, **Paraloom Labs (Solana L2)**, and **Revert Finance**.
 * 🔬 **Auditing Vectors:** Reentrancy attacks, slippage/MEV sandwich exploitation, BFT quorum manipulation, ZK soundness verification, precision loss, and mathematical rounding flaws.
 * 🏢 **Agency & Advisory:** Founder & Lead Architect at [CryptoWebBuild.com](https://cryptowebbuild.com) — delivering end-to-end Web3 architecture, smart contract hardening, and full-stack crypto infrastructure.
 
@@ -66,6 +66,12 @@ I am a **Web3 Protocol Engineer & Smart Contract Security Researcher** specializ
       <td><code>Solana L2 / ZK</code></td>
       <td><a href="https://github.com/paraloom-labs/paraloom-core/pull/1255"><strong>PR #1255</strong></a>: Guarded <code>NullifierSet::check_batch</code> and <code>insert_batch</code> against intra-batch collision</td>
       <td><img src="https://img.shields.io/badge/Bounty-$150%20USDC-00F0FF?style=flat-square" alt="$150 Bounty" /> <code>1st Submitter</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/paraloom-labs/paraloom-prover-wasm"><strong>Paraloom Prover</strong></a></td>
+      <td><code>Solana / ZK Prover</code></td>
+      <td><a href="https://github.com/paraloom-labs/paraloom-prover-wasm/pull/25"><strong>PR #25</strong></a>: Enforced duplicate output commitment rejection, input/output collisions, and duplicate input nullifiers (#17)</td>
+      <td><img src="https://img.shields.io/badge/Bounty-High%20Severity-00F0FF?style=flat-square" alt="High Bounty" /> <code>1st Submitter</code></td>
     </tr>
     <tr>
       <td><a href="https://github.com/paraloom-labs/paraloom-wallet"><strong>Paraloom Wallet</strong></a></td>
