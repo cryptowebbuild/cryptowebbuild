@@ -82,7 +82,7 @@ I lead **CryptoWebBuild**, a high-performance digital agency delivering end-to-e
 Unlike generic web studios, every line of code built by **CryptoWebBuild** adheres to strict security and invariant standards. As a side discipline, I actively research and patch vulnerabilities across Tier-1 Web3 protocols, ensuring our client websites and applications are immune to XSS, CSRF, injection vectors, and data breaches.
 
 <details>
-<summary><strong>🔍 Click to view Verified Web3 Protocol Security Contributions (16+ Patches)</strong></summary>
+<summary><strong>🔍 Click to view Verified Web3 Protocol Security Contributions (18+ Patches)</strong></summary>
 
 <br/>
 
@@ -96,6 +96,12 @@ Unlike generic web studios, every line of code built by **CryptoWebBuild** adher
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>Paraloom Labs</strong></td>
+      <td><code>Solana L2 / ZK</code></td>
+      <td><a href="https://github.com/paraloom-labs/paraloom-core/pull/1317">PR #1317</a>: Checked deposit cap against tracked liabilities to prevent donation griefing (#1279)</td>
+      <td><code>$150 USDC Bounty</code></td>
+    </tr>
     <tr>
       <td><strong>Paraloom Labs</strong></td>
       <td><code>Solana L2 / ZK</code></td>
@@ -123,8 +129,8 @@ Unlike generic web studios, every line of code built by **CryptoWebBuild** adher
     <tr>
       <td><strong>Strata Markets</strong></td>
       <td><code>Ethereum / DeFi</code></td>
-      <td><a href="https://github.com/Strata-Markets/contracts/pull/17">PR #17</a>, <a href="https://github.com/Strata-Markets/contracts/pull/16">#16</a>, <a href="https://github.com/Strata-Markets/contracts/pull/15">#15</a>, <a href="https://github.com/Strata-Markets/contracts/pull/14">#14</a>, <a href="https://github.com/Strata-Markets/contracts/pull/13">#13</a>: Solved cooldown DoS, MEV slippage, APR division flaws</td>
-      <td><code>5 High/Med PRs</code></td>
+      <td><a href="https://github.com/Strata-Markets/contracts/pull/18">PR #18</a>, <a href="https://github.com/Strata-Markets/contracts/pull/17">#17</a>, <a href="https://github.com/Strata-Markets/contracts/pull/16">#16</a>, <a href="https://github.com/Strata-Markets/contracts/pull/15">#15</a>, <a href="https://github.com/Strata-Markets/contracts/pull/14">#14</a>, <a href="https://github.com/Strata-Markets/contracts/pull/13">#13</a>: Solved oracle transitions, cooldown DoS, MEV slippage, APR division flaws</td>
+      <td><code>6 High/Med PRs</code></td>
     </tr>
     <tr>
       <td><strong>Dex223</strong></td>
@@ -154,7 +160,7 @@ Unlike generic web studios, every line of code built by **CryptoWebBuild** adher
 | **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **SEO & Performance** | ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=flat-square&logo=google) ![Lighthouse 95+](https://img.shields.io/badge/Lighthouse-00C58E?style=flat-square&logo=lighthouse&logoColor=white) ![Schema.org](https://img.shields.io/badge/Schema.org-8B5CF6?style=flat-square) ![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-00F0FF?style=flat-square) |
-| **Web3 & Security** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-E34F26?style=flat-square) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black) |
+| **Web3 & Security** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-E34F26?style=flat-square) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black) |
 
 </div>
 
