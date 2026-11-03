@@ -82,7 +82,7 @@ I lead **CryptoWebBuild**, a high-performance digital agency delivering end-to-e
 Unlike generic web studios, every line of code built by **CryptoWebBuild** adheres to strict security and invariant standards. As a side discipline, I actively research and patch vulnerabilities across Tier-1 Web3 protocols, ensuring our client websites and applications are immune to XSS, CSRF, injection vectors, and data breaches.
 
 <details>
-<summary><strong>🔍 Click to view Verified Web3 Protocol Security Contributions (18+ Patches)</strong></summary>
+<summary><strong>🔍 Click to view Verified Web3 Protocol Security Contributions (19+ Patches)</strong></summary>
 
 <br/>
 
@@ -96,6 +96,12 @@ Unlike generic web studios, every line of code built by **CryptoWebBuild** adher
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>Dex223</strong></td>
+      <td><code>EVM / AMM</code></td>
+      <td><a href="https://github.com/EthereumCommonwealth/Dex223-contracts/pull/139">PR #139</a>: Eliminated sweepTokenWithFee to prevent permissionless ERC-223 extraction (Beosin-06 / #44)</td>
+      <td><code>High Security Fix</code></td>
+    </tr>
     <tr>
       <td><strong>Paraloom Labs</strong></td>
       <td><code>Solana L2 / ZK</code></td>
